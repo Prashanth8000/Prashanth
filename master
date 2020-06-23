@@ -1,0 +1,81 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "name": "phython program",
+      "provenance": [],
+      "collapsed_sections": [],
+      "authorship_tag": "ABX9TyNuMjxVtqO9GPxt4QYi56C4",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/Prashanth8000/Prashanth/blob/master/master\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "id": "E_Vkt9rHyaia",
+        "colab_type": "code",
+        "colab": {
+          "base_uri": "https://localhost:8080/",
+          "height": 68
+        },
+        "outputId": "25369714-7db6-48d2-f731-0808e9992248"
+      },
+      "source": [
+        "a=input('enter a number')\n",
+        "b=input('enter another number')\n",
+        "if a > b:\n",
+        "   print('a is greater to b') \n",
+        "elif a == b: \n",
+        "   print('a is equal to b')"
+      ],
+      "execution_count": null,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "text": [
+            "enter a number4\n",
+            "enter another number4\n",
+            "a is equal to b\n"
+          ],
+          "name": "stdout"
+        }
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "vzSPXZkR9lem",
+        "colab_type": "text"
+      },
+      "source": [
+        ""
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "vDUmJG7R9mHi",
+        "colab_type": "text"
+      },
+      "source": [
+        ""
+      ]
+    }
+  ]
+}
